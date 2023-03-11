@@ -1,0 +1,817 @@
+{
+    "language": "English",
+    "@language":{
+      "description": "The current Language"
+    },
+
+    "onboard_message": "The Right Address\nFor Shopping\nAnyday",
+    "@onboard_message":{
+      "description":"A onboard message"
+    },
+
+    "login": "Login",
+    "@login": {
+      "description": "login text"
+    },
+
+    "email": "Email",
+    "@email": {
+      "description": "email text"
+    },
+
+    "password": "Password",
+    "@password": {
+      "description": "password text"
+    },
+
+    "forgot_password": "Forgot Password",
+    "@forgot_password": {
+      "description": "Forgot Password text"
+    },
+
+    "login_securely": "Login Securely",
+    "@login_securely": {
+      "description": "login Securely text"
+    },
+
+    "newsignup": "New one?Signup",
+    "@newsignup": {
+      "description": "New one?SignUp text"
+    },
+
+    "confirmpassword": "Confirm Password",
+    "@confirmpassword": {
+      "description": "Confirm Password text"
+    },
+
+    "register": "Register",
+    "@register": {
+      "description": "Register text"
+    },
+
+    "register_login": "Already have a account? Login",
+    "@register_login": {
+      "description": "Confirm Password text"
+    },
+
+    "skip": "skip",
+    "@skip": {
+      "description": "skip text"
+    },
+
+    "signup": "SignUp",
+    "@signup": {
+      "description": "signup text"
+    },
+
+    "hi": "Hi",
+    "@hi": {
+      "description": "hi text"
+    },
+
+    "categories": "Categories",
+    "@categories": {
+      "description": "Categories text"
+    },
+
+    "hot_deals": "Hot Deals",
+    "@hot_deals": {
+      "description": "Hot Deals text"
+    },
+
+    "search_here": "Search Here",
+    "@search_here": {
+      "description": "Search Here text"
+    },
+
+    "womens_wear_categories": "Womens Wear Categories",
+    "@womens_wear_categories": {
+      "description": "Womens Wear text"
+    },
+
+    "womens_shirt_jeans": "Womens Shirt & Jeans",
+    "@womens_shirt_jeans": {
+      "description": "Womens shrit text"
+    },
+
+    "trending_now": "Trending Now",
+    "@trending_now": {
+      "description": "Trending Now text"
+    },
+
+    "most_searched": "Most searched",
+    "@most_searched": {
+      "description": "most searched text"
+    },
+
+    "brands": "Brands",
+    "@brands": {
+      "description": "brands text"
+    },
+
+    "traditional": "Traditional",
+    "@traditional": {
+      "description": "traditional text"
+    },
+
+    "my_cart": "My Cart",
+    "@my_cart": {
+      "description": "My Cart text"
+    },
+
+    "buy_this_now": "Buy This Now",
+    "@buy_this_now": {
+      "description": "Buy This Now text"
+    },
+
+    "save_for_later": "Save For Later",
+    "@save_for_later": {
+      "description": "Save For Later text"
+    },
+
+    "arrives_mon": "Arrives Mon,20  May To Thu,23 JuneMG road,Tsr ck",
+    "@arrives_mon": {
+      "description": "Arrives Mon,20  May To Thu,23 JuneMG road,Tsr ck text"
+    },
+
+    "my_order": "My Order",
+    "@my_order": {
+      "description": "My Order text"
+    },
+
+    "order1": "Rore Rabiot Scalf",
+    "@order1": {
+      "description": "Rore Rabiot Scalf text"
+    },
+
+    "order2": "CMT-Shirt",
+    "@order2": {
+      "description": "CMT-Shirt text"
+    },
+
+    "order3": "Wyder Smart Watch",
+    "@order3": {
+      "description": "Wyder Smart Watch text"
+    },
+
+    "order4": "Real We Mobile",
+    "@order4": {
+      "description": "Real We Mobile Watch text"
+    },
+
+    "order5": "Luther Casual Shirt",
+    "@order5": {
+      "description": "Luther Casual Shirt text"
+    },
+
+    "notification": "Notification",
+    "@notification": {
+      "description": "Notification text"
+    },
+
+    "today": "Today",
+    "@today": {
+      "description": "Today text"
+    },
+
+    "yesterday": "Yesterday",
+    "@yesterday": {
+      "description": "Yesterday text"
+    },
+
+    "gift_voucher": "Gift Voucher",
+    "@gift_voucher": {
+      "description": "Gift Voucher text"
+    },
+
+    "earn_sweatcoins": "Earn 5 Sweatcoins",
+    "@earn_sweatcoins": {
+      "description": "Earn 5 Sweatcoins text"
+    },
+
+    "walk_at_least": "Walk at least 2,200 steps in 20 minutes",
+    "@walk_at_least": {
+      "description": "Walk at least text"
+    },
+
+    "daily_rewards": "Daily Rewards",
+    "@daily_rewards": {
+      "description": "Daily Rewards text"
+    },
+
+    "try_your": "Try your luck and win bonuses from 0 to 1,000 sweatcoins",
+    "@daily_rewards": {
+      "description": "Try your luck text"
+    },
+
+    "sweatcoins": "Sweatcoins Unlocked",
+    "@sweatcoins": {
+      "description": "Sweatcoins text"
+    },
+
+    "reward": "Reward",
+    "@reward": {
+      "description": "Reward text"
+    },
+
+    "steps_complete": "121,346 Steps complete",
+    "@steps_complete": {
+      "description": "121,346 Steps complete text"
+    },
+
+    "amazing": "Amazing, you're half way! check your progress details.",
+    "@amazing": {
+      "description": "Amazing text"
+    },
+
+    "my_address": "My Address",
+    "@my_address": {
+      "description": "My Address text"
+    },
+
+    "checkout": "Checkout",
+    "@checkout": {
+      "description": "Checkout text"
+    },
+
+    "shipping": "Shipping to",
+    "@shipping": {
+      "description": "shipping text"
+    },
+
+    "tower": "Kp Tower 35, M G Road, Fort Junction",
+    "@tower": {
+      "description": "tower text"
+    },
+    
+    "edit": "Edit",
+    "@edit": {
+      "description": "Edit text"
+    },
+    
+    "add_address": "Add Address",
+    "@add_address": {
+      "description": "Add Address text"
+    },
+    
+    "payment_method": "Payment Method",
+    "@payment_method": {
+      "description": "Payment Method text"
+    },
+    
+    "card": "Debit/Credit/ATM Card",
+    "@card": {
+      "description": "Debit text"
+    },
+    
+    "bank_transfer": "Bank Transfer",
+    "@bank_transfer": {
+      "description": "Bank Transfer text"
+    },
+    
+    "cash_payment": "Cash Payment",
+    "@cash_payment": {
+      "description": "cash payment text"
+    },
+    
+    "add_card": "Add Card",
+    "@add_card": {
+      "description": "Add Card text"
+    },
+
+    "paynow": "Pay Now",
+    "@paynow": {
+      "description": "Pay Now text"
+    },
+    
+    "deliver_here": "Deliver Here",
+    "@deliver_here": {
+      "description": "Deliver text"
+    },
+
+    "first_name": "First Name",
+    "@first_name": {
+      "description": "first name text"
+    },
+
+    "last_name": "Last Name",
+    "@last_name": {
+      "description": "last name text"
+    },
+
+    "mobile_no": "Mobile Number",
+    "@mobile_no": {
+      "description": "Mob text"
+    },
+
+    "alternate_ph": "Alternate Phone Number",
+    "@alternate_ph": {
+      "description": "alternate phone text"
+    },
+
+    "pincode": "Pincode",
+    "@pincode": {
+      "description": "pincode text"
+    },
+
+    "state": "State",
+    "@state": {
+      "description": "State text"
+    },
+
+    "city": "City",
+    "@city": {
+      "description": "city text"
+    },
+
+    "house_no": "House No, Building Name",
+    "@house_no": {
+      "description": "House No text"
+    },
+
+    "road_name": "Road Name, Area, Colony",
+    "@road_name": {
+      "description": "Road Name text"
+    },
+
+    "home": "Home",
+    "@home": {
+      "description": "Home text"
+    },
+
+    "work": "Work",
+    "@work": {
+      "description": "work text"
+    },
+
+    "add": "Add",
+    "@add": {
+      "description": "Add text"
+    },
+
+    "my_wishlist": "My Wishlist",
+    "@my_wishlist": {
+      "description": "My Wishlist text"
+    },
+
+    "puff": "Puff Sleeves",
+    "@puff": {
+      "description": "Puff text"
+    },
+
+    "casual_shirt": "Casual Shirt",
+    "@casual_shirt": {
+      "description": "Casual Shirt text"
+    },
+
+    "hiker": "Hiker",
+    "@hiker": {
+      "description": "Hiker text"
+    },
+
+    "white_pearl": "White Pearl Necklace",
+    "@white_pearl": {
+      "description": "White Pearl text"
+    },
+
+    "add_to_cart": "Add to cart",
+    "@add_to_cart": {
+      "description": "Add to cart text"
+    },
+
+    "my_account": "My Account",
+    "@my_account": {
+      "description": "My account text"
+    },
+
+    "account_setting": "Account Settings",
+    "@account_setting": {
+      "description": "Account setting text"
+    },
+
+    "shopme": "Shopme",
+    "@shopme": {
+      "description": "shopme text"
+    },
+
+    "edit_profile": "Edit Profile",
+    "@edit_profile": {
+      "description": "Edit profile text"
+    },
+
+    "notication_setting": "Notifications Settings",
+    "@notication_setting": {
+      "description": "Notifications settings text"
+    },
+
+    "my_activity": "My Activity",
+    "@my_activity": {
+      "description": "My activity text"
+    },
+
+    "reviews": "Reviews",
+    "@reviews": {
+      "description": "Reviews text"
+    },
+
+    "qus_ans": "Questions & Answers",
+    "@qus_ans": {
+      "description": "Questions & Answers text"
+    },
+
+    "fashion_modo": "Earn With Fashion Modo",
+    "@fashion_modo": {
+      "description": "Earn with fashion modo text"
+    },
+
+    "refer_earn": "Refer & Earn",
+    "@refer_earn": {
+      "description": "Refer & earn text"
+    },
+
+    "shopme_creator": "Shopme creator studio",
+    "@shopme_creator": {
+      "description": "Shopme craetor studio text"
+    },
+
+    "feedback_inform": "Feedback & Information",
+    "@feedback_inform": {
+      "description": "Feedback & inform text"
+    },
+
+    "terms_policies": "Terms, Policies & license",
+    "@terms_policies": {
+      "description": "Terms, Policies & license text"
+    },
+
+    "help_center": "Help Center",
+    "@help_center": {
+      "description": "Help center text"
+    },
+
+    "title1": "I Want to track my order",
+    "@title1": {
+      "description": "i want text"
+    },
+
+    "content1": "Check order status & call the delivery agent",
+    "@content1": {
+      "description": "check order text"
+    },
+
+    "title2": "I Want to manage my order",
+    "@title2": {
+      "description": "manage my order text"
+    },
+
+    "content2": "Cancel, change delivery data & address ",
+    "@content2": {
+      "description": "Cancel, change text"
+    },
+
+    "title3": "I Want help with returns& refunds",
+    "@title3": {
+      "description": "returns text"
+    },
+
+    "content3": "Manage & track returns",
+    "@content3": {
+      "description": "Manage & track text"
+    },
+
+    "title4": "I Want help with other issues",
+    "@title4": {
+      "description": "help with other text"
+    },
+
+    "content4": "Offers, payments, flipkart plus & all other issues",
+    "@content4": {
+      "description": "offers & payments text"
+    },
+
+    "title5": "I Want to contact the seller",
+    "@title5": {
+      "description": "seller text"
+    },
+
+    "title6": "Browse Help Topics",
+    "@title6": {
+      "description": "help topics text"
+    },
+   
+   "button_help": "Still no luck?",
+    "@button_help": {
+      "description": "luck text"
+    },
+
+    "white_puff": "White Puff Sleeves Shirt",
+    "@white_puff": {
+      "description": "White puff text"
+    },
+
+    "casual_wear": "Casual Wear",
+    "@casual_wear": {
+      "description": "Casual text"
+    },
+
+    "buy_now": "Buy Now",
+    "@buy_now": {
+      "description": "buy now text"
+    },
+
+    "product_rating": "Product Rating",
+    "@product_rating": {
+      "description": "product rating text"
+    },
+
+    "based_reviews": "Based on 120 Reviews",
+    "@based_reviews": {
+      "description": "Based reviews text"
+    },
+
+    "min_ago": "1 min ago",
+    "@min_ago": {
+      "description": "1 min ago text"
+    },
+
+    "add_review": "Add Review",
+    "@add_review": {
+      "description": "Add review text"
+    },
+
+     "lorem_ipsum": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sematni bhelement umimperdiet.",
+    "@lorem_ipsum": {
+      "description": "lorem ipsum text"
+    },
+
+    "edit_address": "Edit Address",
+    "@edit_address": {
+      "description": "Edit address text"
+    },
+
+    "sub_total": "Sub Total",
+    "@sub_total": {
+      "description": "Sub total text"
+    },
+
+    "discount": "Discount",
+    "@discount": {
+      "description": "Discount text"
+    },
+
+    "total_cart": "Total Cart",
+    "@total_cart": {
+      "description": "Total  cart text"
+    },
+
+    "other_items": "2 Other items included",
+    "@other_items": {
+      "description": "other items text"
+    },
+
+    "check_out": "Check Out",
+    "@check_out": {
+      "description": "Check Out text"
+    },
+
+    "add_new_card": "Add New Card",
+    "@add_new_card": {
+      "description": "Add new card text"
+    },
+
+    "debit_card": "Debit Card",
+    "@debit_card": {
+      "description": "Debit card text"
+    },
+
+    "atm_card": "ATM Card",
+    "@atm_card": {
+      "description": "ATM Card text"
+    },
+
+    "credit_card": "Credit Card",
+    "@credit_card": {
+      "description": "Credit card text"
+    },
+
+    "master_card": "Master Card",
+    "@master_card": {
+      "description": "Master card text"
+    },
+     
+     "full_name": "Full Name",
+    "@full_name": {
+      "description": "Full name text"
+    },
+
+
+    "card_number": "Card Number",
+    "@card_number": {
+      "description": "Card Number text"
+    },
+
+    "expires": "Expires",
+    "@expires": {
+      "description": "expires text"
+    },
+
+    "save_debit_card_inform": "Save Debit card information",
+    "@save_debit_card_inform": {
+      "description": "save debit card inform text"
+    },
+
+    "add_card": "Add Card",
+    "@add_card": {
+      "description": "Add card text"
+    },
+
+    "logo": "Logo",
+    "@logo": {
+      "description": "logo text"
+    },
+
+    "hey_mina": "Hey Mina",
+    "@hey_mina": {
+      "description": "Hey Mina text"
+    },
+    
+    "thank_for_your_order": "Thank for your order",
+    "@thank_for_your_order": {
+      "description": "Thank for your order text"
+    },
+    
+    "continue_shopping": "Continue Shopping",
+    "@continue_shopping": {
+      "description": "Continue Shopping text"
+    },
+
+    "review_product": "Review Product ",
+    "@review_product": {
+      "description": "Review product text"
+    },
+
+    "add_photo": "Add Photo",
+    "@add_photo": {
+      "description": "Add photo text"
+    },
+
+    "add_video": "Add Video",
+    "@add_video": {
+      "description": "add video text"
+    },
+
+    "write_review": "Write Review",
+    "@write_review": {
+      "description": "write review text"
+    },
+
+    "how_is_the_product": "How is the product?",
+    "@hey_mina": {
+      "description": "How  text"
+    },
+
+    "submit": "Submit",
+    "@submit": {
+      "description": "submit text"
+    },
+
+    "price": "Price",
+    "@price": {
+      "description": "price text"
+    },
+
+    "gender": "Gender",
+    "@gender": {
+      "description": "Gender text"
+    },
+
+    "male": "Male",
+    "@male": {
+      "description": "Male text"
+    },
+
+    "female": "Female",
+    "@female": {
+      "description": "female text"
+    },
+
+    "other": "Other",
+    "@other": {
+      "description": "Other text"
+    },
+
+    "color": "Color",
+    "@color": {
+      "description": "Color text"
+    },
+
+    "clear": "Clear",
+    "@clear": {
+      "description": "clear text"
+    },
+
+    "apply": "Apply",
+    "@apply": {
+      "description": "Apply text"
+    },
+
+    "news": "News",
+    "@news": {
+      "description": "News text"
+    },
+
+    "entertainment": "Entertainment",
+    "@entertainment": {
+      "description": "Entertainment text"
+    },
+
+    "politics": "Politics",
+    "@politics": {
+      "description": "Politics text"
+    },
+
+    "automotive": "Automotive",
+    "@automotive": {
+      "description": "Automotive text"
+    },
+
+    "sports": "Sports",
+    "@sports": {
+      "description": "Sports text"
+    },
+
+    "education": "Education",
+    "@education": {
+      "description": "Education text"
+    },
+
+    "fashion": "Fashion",
+    "@fashion": {
+      "description": "fashion text"
+    },
+
+    "travel": "Travel",
+    "@travel": {
+      "description": "travel text"
+    },
+
+    "food": "Food",
+    "@food": {
+      "description": "Food text"
+    },
+
+    "tech": "Tech",
+    "@tech": {
+      "description": "tech text"
+    },
+
+    "science": "Science",
+    "@science": {
+      "description": "science text"
+    },
+
+    "user_name": "User Name",
+    "@user_name": {
+      "description": "User Name text"
+    },
+
+    "phone": "Phone",
+    "@phone": {
+      "description": "phone text"
+    },
+
+    "change_password": "Change Password",
+    "@change_password": {
+      "description": "Change Password text"
+    },
+
+    "edit": "Edit",
+    "@edit": {
+      "description": "Edit text"
+    },
+
+    "current_password": "Current Password",
+    "@current_password": {
+      "description": "Current password text"
+    },
+
+    "new_password": "New Password",
+    "@new_password": {
+      "description": "New Password text"
+    },
+
+    "confirm_password": "Confirm Password",
+    "@confirm_password": {
+      "description": "Confirm password text"
+    },
+
+    "done": "Done",
+    "@done": {
+      "description": "Done text"
+    }
+
+
+
+ 
+}
+

@@ -1,0 +1,325 @@
+{
+    "language": "español",
+
+    "onboard_message":"La dirección correcta para comprar cualquier día",
+   
+    "login": "Acceso",
+
+    "skip": "saltar",
+
+    "email": "Correo electrónico",
+
+    "password": "Contraseña",
+
+    "forgot_password": "Has olvidado tu contraseña",
+
+    "login_securely": "Iniciar sesión de forma segura",
+
+    "newsignup": "Uno nuevo? Inscribirse",
+
+    "confirmpassword": "Confirmar Contraseña",
+
+    "register": "Registro",
+
+    "register_login": "Ya tienes una cuenta? Acceso",
+
+    "signup": "Inscribirse",
+
+    "hi": "Hola",
+
+    "categories": "categorías",
+
+    "hot_deals": "las mejores ofertas",
+
+    "search_here": "Busca aquí",
+
+    "womens_wear_categories": "Categorías de ropa de mujer",
+
+    "womens_shirt_jeans": "Camisa de mujer y vaqueros",
+
+    "trending_now": "Siendo tendencia ahora",
+
+    "most_searched": "Más buscada",
+
+    "brands": "Marcas",
+
+    "traditional": "Tradicional",
+
+    "my_cart": "Mi carrito",
+
+    "buy_this_now": "Compra esto ahora",
+
+    "save_for_later": "Guardar para más adelante",
+
+    "arrives_mon": "Arrives Mon,20  May To Thu,23 JuneMG road,Tsr ck",
+
+    "my_order": "Mi pedido",
+
+    "order1": "Bucle de Rore Rabiot",
+
+    "order2": "CMT-Camisa",
+
+    "order3": "Reloj inteligente Wyder",
+
+    "order4": "Real Nosotros Móvil",
+
+    "order5": "Lutero camisa casual",
+
+    "notification": "Notificación",
+
+    "today": "Hoy",
+
+    "yesterday": "Ayer",
+
+    "gift_voucher": "Vale regalo",
+
+    "earn_sweatcoins": "Gana 5 monedas de sudor",
+
+    "walk_at_least": "Camina al menos 2200 pasos en 20 minutos",
+
+     "daily_rewards": "Recompensas diarias",
+
+     "try_your": "Prueba tu suerte y gana bonos de 0 a 1000 monedas de sudor",
+
+     "sweatcoins": "Monedas desbloqueadas",
+     
+     "reward": "Premio",
+
+     "steps_complete": "121,346 Pasos completados",
+
+     "amazing": "¡Increíble, estás a mitad de camino! verifique los detalles de su progreso.",
+
+     "my_address": "Mi dirección",
+
+     "checkout": "Verificar",
+
+     "shipping": "embarcar hacia",
+
+     "tower": "Torre Kp 35, M G Road, Fort Junction",
+
+     "edit": "Editar",
+
+     "add_address": "Añadir dirección",
+
+     "payment_method": "Método de pago",
+
+     "card": "Tarjeta de débito/crédito/cajero automático",
+
+     "bank_transfer": "Transferencia bancaria",
+
+     "cash_payment": "Pago en efectivo",
+
+     "add_card": "Agregar tarjeta",
+
+     "paynow": "Pagar ahora",
+
+     "deliver_here": "Entrega aquí",
+
+     "first_name": "Nombre de pila",
+
+     "last_name": "Apellido",
+
+     "mobile_no": "Número de teléfono móvil",
+
+     "alternate_ph": "Número de teléfono alternativo",
+
+     "pincode": "Código PIN",
+
+     "state": "Estado",
+
+      "city": "Ciudad",
+
+      "house_no": "Número de casa, nombre del edificio",
+
+      "road_name": "Nombre de la vía, zona, colonia",
+
+      "home": "Hogar",
+
+      "work": "Trabajar",
+
+      "add": "Agregar",
+
+      "my_wishlist": "mi lista de deseos",
+
+      "puff": "mangas abullonadas",
+
+      "casual_shirt": "Camisa casual",
+
+       "hiker": "Caminante",
+
+       "white_pearl": "Collar de perlas blancas",
+
+       "add_to_cart": "Añadir a la cesta",
+
+       "my_account": "Mi cuenta",
+
+       "account_setting": "Configuraciones de la cuenta",
+
+       "shopme": "Cómprame",
+
+       "edit_profile": "Editar perfil",
+
+       "notication_setting": "Configuracion de notificaciones",
+
+       "my_activity": "Mi actividad",
+
+       "reviews": "Reseñas",
+
+       "qus_ans": "preguntas y respuestas",
+
+       "fashion_modo": "Gana con Moda Modo",
+
+       "refer_earn": "Referir y ganar",
+
+       "shopme_creator": "Estudio creador Shopme",
+
+       "feedback_inform": "Comentarios e información",
+
+       "terms_policies": "Términos, políticas y licencia",
+
+       "help_center": "Centro de ayuda",
+
+       "title1": "Quiero rastrear mi pedido",
+
+       "content1": "Verifique el estado del pedido y llame a la agente de entrega.",
+
+       "title2": "Quiero gestionar mi pedido",
+
+       "content2": "Cancelar, cambiar datos de entrega y dirección ",
+
+       "title3": "Quiero ayuda con devoluciones y reembolsos",
+
+       "content3": "Gestionar y realizar un seguimiento de las devoluciones",
+
+       "title4": "Quiero ayuda con otros problemas",
+
+       "content4": "Ofertas, pagos, flipkart plus y todos los demás problemas",
+
+       "title5": "Quiero contactar al vendedor",
+
+       "title6": "Examinar temas de ayuda",
+
+       "button_help": "Aún no has tenido suerte?",
+
+       "white_puff": "Camisa blanca con mangas abullonadas",
+
+       "casual_wear": "Ropa casual",
+
+       "buy_now": "Comprar ahora",
+
+       "product_rating": "Calificación del producto",
+
+       "based_reviews": "Basado en 120 Reseñas",
+
+       "min_ago": "hace 1 minuto",
+
+       "add_review": "Agregar una opinión",
+
+       "lorem_ipsum": "El cliente es muy importante, el cliente será seguido por el cliente. Total y no odio. Es gratis. Pero la carrera antes de la bicicleta diam. pero a menos que No hay nadie que cubra el bhelement.",
+
+       "edit_address": "Editar dirección",
+
+       "sub_total": "Subtotal",
+
+       "discount": "Descuento",
+
+       "other_items": "2 Otros elementos incluidos",
+
+       "total_cart": "Carrito total",
+
+       "check_out": "Verificar",
+
+       "add_new_card": "Agregar nueva tarjeta",
+
+       "debit_card": "Tarjeta de débito",
+
+       "atm_card": "Tarjeta de cajero automático",
+
+       "credit_card": "Tarjeta de crédito",
+
+       "master_card": "Tarjeta maestra",
+
+       "full_name": "Nombre completo",
+
+       "card_number": "Número de tarjeta",
+
+       "expires": "Caduca",
+
+       "save_debit_card_inform": "Guardar información de la tarjeta de débito",
+
+       "add_card": "Agregar tarjeta",
+
+       "logo": "Logo",
+
+       "hey_mina": "Hola mina",
+
+       "thank_for_your_order": "Gracias por su orden",
+
+       "continue_shopping": "Seguir comprando",
+
+       "review_product": "Revisar producto",
+
+       "add_photo": "Añadir foto",
+
+       "add_video": "Añadir video",
+
+       "write_review": "Escribir un comentario",
+
+       "how_is_the_product": "Cómo es el producto?",
+
+       "submit": "Entregar",
+
+       "price": "Precio",
+
+       "gender": "Género",
+
+       "male": "Masculina",
+
+       "female": "Femenina",
+
+       "other": "Otra",
+
+       "color": "Color",
+
+       "clear": "Clara",
+
+       "apply": "Aplicar",
+
+       "news": "Noticias",
+
+       "entertainment": "Entretenimiento",
+
+       "politics": "Política",
+
+       "automotive": "Automotor",
+
+       "sports": "Deportes",
+
+       "education": "Educación",
+
+       "fashion": "Moda",
+
+       "travel": "Viajar",
+
+       "food": "Alimento",
+
+       "tech": "Tecnología",
+
+       "science": "Ciencia",
+
+       "user_name": "Nombre de usuario",
+
+       "phone": "Teléfono",
+
+       "change_password": "Cambiar la contraseña",
+
+        "edit": "Editar",
+
+        "current_password": "Contraseña actual",
+
+        "new_password": "Nueva contraseña",
+
+        "confirm_password": "Confirmar Contraseña",
+
+        "done": "Hecho"
+}
